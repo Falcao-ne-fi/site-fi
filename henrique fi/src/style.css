@@ -1,0 +1,36 @@
+:root{
+    --dark: #000000;
+    --text: #ffffff;
+    --bg: #000000;
+    --color1: #faf3dd;
+    --color2: #c8d5b9;
+    --color3: #8fc0a9;
+    --color4: #68b0ab;
+    --color5: #696d7d;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#a1{
+    background-color: var(--color1);
+}
+
+#a2{
+    background-color: var(--color2);
+}
+
+#a3{
+    background-color: var(--color3);
+}
+
+#a4{
+    background-color: var(--color4);
+}
+
+#a5{
+    background-color: var(--color5);
+}
